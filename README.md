@@ -16,8 +16,8 @@ If you found value in something I have created, please feel free to give me a sh
 
 #### Few self-built live tools i use everyday :
 * My Official Web- platform :<a href="http://www.spdesigns.ml/">Spdesigns</a>
-* Personal Blog: [Chootu](http://www.spworld.cf/)
-* Kanban task tracking board: [Kanbang](https://kanbang-d1e70.web.app/)
+* Personal Blog: [Spworld](http://www.spworld.cf/)
+* Android E-commerce:[More Book House](https://play.google.com/store/apps/details?id=com.morebookstall.app117598)
 -----
 
 <details>
