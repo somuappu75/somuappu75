@@ -14,7 +14,7 @@ If you found value in something I have created, please feel free to give me a sh
 
 ### My Digital Footprints 🌱
 
-#### Few self-built live tools i use everyday :
+#### Few self-built live Tools To Explore Skills:
 * My Official Web- platform :<a href="http://www.spdesigns.ml/">Spdesigns</a>
 * Personal Blog: [Spworld](http://www.spworld.cf/)
 * Android E-commerce App:[More Book House](https://play.google.com/store/apps/details?id=com.morebookstall.app117598) Check It On google Play Store
