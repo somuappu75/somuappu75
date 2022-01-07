@@ -22,12 +22,12 @@ If you found value in something I have created, please feel free to give me a sh
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
  <ul>
-   <li> Efficient system designing </li>
-   <li> Working with Clojure </li>
-   <li> Playing around with GCP </li>
-   <li> Building <a href="https://namelss.com">Namelss</a> </li>
-   <li> React Native development</li>
-   <li> Kubernetes</li>
+   <li> Efficient Website designing </li>
+   <li> Working with Wordpress </li>
+   <li> Building E-Commerce Site(https://morebookstall.com/) </li>
+   <li> Building <a href="https://namelss.com">Blogs</a> </li>
+   <li> Android Application Development</li>
+   <li> Personal Bolgs</li>
   </ul>
 </details>
 
