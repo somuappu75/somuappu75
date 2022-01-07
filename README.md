@@ -1,8 +1,8 @@
 # Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  [![waylon walker header](https://github.com/somuappu75/somuappu75/blob/main/iconsgit/gh-bannner1.png)](https://waylonwalker.com)
 
-I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
-If you found value in something I have created, please feel free to give me a shout out [@ikshitijsingh](https://twitter.com/ikshitijsingh/) or give some ♥ on [mail](mailto:singh_kshitij@yahoo.com). Feel free to reach out in case you want to just get in touch also.
+I am  a Web Developer And Designer . I have a passion for learning and sharing my knowledge with others as publicly as possible. 
+If you found value in something I have created, please feel free to give me a shout out [@somuhavinal](https://www.instagram.com/somu_havinal/) or give some ♥ on [mail](mailto:somusp75@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align='center'>
  <a href="https://wa.me/9731390823"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/whatsapp.png?raw=true"></a>&nbsp;&nbsp;
