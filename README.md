@@ -15,9 +15,10 @@ If you found value in something I have created, please feel free to give me a sh
 ### My Digital Footprints 🌱
 
 #### Few self-built live tools i use everyday :
-* Feedback/Chat platform : [Namelss](https://namelss.com)
-* Url-shortener : [Chootu](https://chootu.netlify.app/)
+* My Official Web- platform :<a href="http://www.spdesigns.ml/">Spdesigns</a>
+* Personal Blog: [Chootu](http://www.spworld.cf/)
 * Kanban task tracking board: [Kanbang](https://kanbang-d1e70.web.app/)
+-----
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
@@ -27,7 +28,7 @@ If you found value in something I have created, please feel free to give me a sh
    <li> Building E-Commerce Site(https://morebookstall.com/) </li>
    <li> Building <a href="https://namelss.com">Blogs</a> </li>
    <li> Android Application Development</li>
-   <li> Personal Bolgs</li>
+   <li> [Personal Bolgs](http://www.spdesigns.ml/)</li>
   </ul>
 </details>
 
