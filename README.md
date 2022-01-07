@@ -1,14 +1,15 @@
 # Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ [![waylon walker header](https://github.com/somuappu75/somuappu75/blob/main/iconsgit/gh-bannner1.png)](https://waylonwalker.com)
 
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, please feel free to give me a shout out [@ikshitijsingh](https://twitter.com/ikshitijsingh/) or give some ♥ on [mail](mailto:singh_kshitij@yahoo.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/ikshitijsingh/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ikshitijsingh"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
-<a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
+ <a href="https://wa.me/9731390823"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/whatsapp.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/somanath-havinal-37922a172/"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/somu_havinal/"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:somusp75@gmail.com"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/mail.png?raw=true"></a>
+<a href="http://www.spworld.cf/"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/blog.png?raw=true"></a>
 </p>
 
 ### My Digital Footprints 🌱
