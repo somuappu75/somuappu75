@@ -31,8 +31,8 @@ If you found value in something I have created, please feel free to give me a sh
   </ul>
 </details>
 
-![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkshitij&layout=compact&hide_border=true)
+![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=somuappu75&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somuappu75&layout=compact&hide_border=true)
 
 
 
