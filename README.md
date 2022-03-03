@@ -5,7 +5,7 @@ I am  a Web Developer And Designer . I have a passion for learning and sharing m
 If you found value in something I have created, please feel free to give me a shout out [@somuhavinal](https://www.instagram.com/somu_havinal/) or give some ♥ on [mail](mailto:somusp75@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align='center'>
- <a href="https://wa.me/9731390823"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/whatsapp.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://wa.me/+919731390823"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/whatsapp.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/somanath-havinal-37922a172/"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/somu_havinal/"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:somusp75@gmail.com"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/mail.png?raw=true"></a>
