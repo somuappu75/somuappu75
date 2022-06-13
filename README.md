@@ -1,4 +1,4 @@
-# Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
  [![waylon walker header](https://github.com/somuappu75/somuappu75/blob/main/iconsgit/gh-bannner1.png)](https://www.spworld.cf/)
 
 I am  a Web Developer And Designer . I have a passion for learning and sharing my knowledge with others as publicly as possible. 
