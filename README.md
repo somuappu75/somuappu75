@@ -1,5 +1,5 @@
 # Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
- [![waylon walker header](https://github.com/somuappu75/somuappu75/blob/main/iconsgit/gh-bannner1.png)](https://www.spworld.cf/)
+ [![ sp header](https://github.com/somuappu75/somuappu75/blob/main/iconsgit/gh-bannner1.png)](https://www.spworld.cf/)
 
 I am  a Web Developer And Designer . I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, please feel free to give me a shout out [@somuhavinal](https://www.instagram.com/somu_havinal/) or give some ♥ on [mail](mailto:somusp75@gmail.com). Feel free to reach out in case you want to just get in touch also.
@@ -12,7 +12,23 @@ If you found value in something I have created, please feel free to give me a sh
 <a href="http://www.spworld.cf/"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/blog.png?raw=true"></a>
 </p>
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+<div class="subheading mb-3">Programming Languages & Tools</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fab fa-html5"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-angular"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-sass"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-less"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-npm"></i></li>
+						<li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
+						<li class="list-inline-item"><i class="fab fa-github"></i></li>
+				
+		
+                    </ul>
 
 ### My Digital Footprints 🌱
 
