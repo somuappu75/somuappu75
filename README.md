@@ -11,7 +11,7 @@ If you found value in something I have created, please feel free to give me a sh
 <a href="mailto:somusp75@gmail.com"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/mail.png?raw=true"></a>
 <a href="http://www.spworld.cf/"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/blog.png?raw=true"></a>
 </p>
-#🔧 Technologies & Tools
+#🔧 #Technologies & Tools
 <hr>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
