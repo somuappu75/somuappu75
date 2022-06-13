@@ -14,6 +14,7 @@ If you found value in something I have created, please feel free to give me a sh
 ## 🔧 Technologies & Tools
 <div class="subheading mb-3">Programming Languages & Tools</div>
                     <ul class="list-inline dev-icons">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
                         <li class="list-inline-item"><i class="fab fa-html5"></i></li>
                         <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
                         <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
