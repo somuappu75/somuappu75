@@ -11,10 +11,12 @@ If you found value in something I have created, please feel free to give me a sh
 <a href="mailto:somusp75@gmail.com"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/mail.png?raw=true"></a>
 <a href="http://www.spworld.cf/"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/blog.png?raw=true"></a>
 </p>
-
-### My Digital Footprints 🌱
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+### My Digital Footprints 🌱
 #### Few self-built live Tools To Explore Skills:
 * My Official Web- platform :<a href="http://www.spdesigns.ml/">Spdesigns</a>
 * My Resume:<a href="http://www.resumesomu.ml/">MyResume</a>
