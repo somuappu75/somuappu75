@@ -11,28 +11,9 @@ If you found value in something I have created, please feel free to give me a sh
 <a href="mailto:somusp75@gmail.com"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/mail.png?raw=true"></a>
 <a href="http://www.spworld.cf/"><img height="30" src="https://github.com/somuappu75/somuappu75/blob/main/iconsgit/blog.png?raw=true"></a>
 </p>
-## 🔧 Technologies & Tools
-<div class="subheading mb-3">Programming Languages & Tools</div>
-                    <ul class="list-inline dev-icons">
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-                        <li class="list-inline-item"><i class="fab fa-html5"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-angular"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-sass"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-less"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-npm"></i></li>
-						<li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
-						<li class="list-inline-item"><i class="fab fa-github"></i></li>
-				
-		
-                    </ul>
 
 ### My Digital Footprints 🌱
-
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 #### Few self-built live Tools To Explore Skills:
 * My Official Web- platform :<a href="http://www.spdesigns.ml/">Spdesigns</a>
 * My Resume:<a href="http://www.resumesomu.ml/">MyResume</a>
